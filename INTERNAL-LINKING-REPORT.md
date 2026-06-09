@@ -1,0 +1,57 @@
+# Internal Linking Report
+
+- Hub to cluster links implemented through related guide sections and sitemap discovery.
+- Cluster to hub links implemented on new support pages.
+- Cluster to cluster links implemented through contextual related articles blocks.
+- Trust pages are linked in footer clusters.
+- Broken internal links found by QA: 0.
+
+## Page Link Counts
+- //: 10 internal links
+- /about-us/: 27 internal links
+- /android-speaker-water-removal-guide/: 34 internal links
+- /audio-balance-after-water-damage/: 20 internal links
+- /authors/: 20 internal links
+- /best-way-to-remove-water-from-bottom-speaker/: 34 internal links
+- /bluetooth-speaker-water-exposure/: 20 internal links
+- /can-sound-waves-push-water-out-of-speakers/: 34 internal links
+- /contact-us/: 27 internal links
+- /disclaimer/: 27 internal links
+- /earpiece-speaker-water-removal/: 20 internal links
+- /editorial-policy/: 20 internal links
+- /fix-low-volume-after-water-exposure/: 34 internal links
+- /fix-muffled-phone-speaker/: 33 internal links
+- /fix-my-speaker-online/: 33 internal links
+- /how-long-to-run-a-speaker-cleaning-tone/: 34 internal links
+- /how-to-dry-a-wet-phone-speaker-safely/: 34 internal links
+- /how-to-use-fix-my-speaker-online/: 34 internal links
+- /iphone-speaker-water-eject-guide/: 34 internal links
+- /is-fix-my-speaker-safe-for-android/: 34 internal links
+- /is-fix-my-speaker-safe-for-iphone/: 34 internal links
+- /phone-speaker-cleaner-tool-guide/: 33 internal links
+- /phone-speaker-crackling-after-water/: 34 internal links
+- /phone-speaker-distortion-test/: 20 internal links
+- /phone-speaker-drying-timeline/: 20 internal links
+- /phone-speaker-repair-cost-guide/: 20 internal links
+- /phone-speaker-sounds-like-underwater/: 20 internal links
+- /phone-speaker-water-damage-myths/: 20 internal links
+- /privacy-policy/: 27 internal links
+- /remove-water-from-phone-speaker/: 33 internal links
+- /safe-volume-for-speaker-cleaning/: 20 internal links
+- /smartwatch-speaker-water-eject-guide/: 20 internal links
+- /speaker-cleaner-not-working/: 20 internal links
+- /speaker-cleaner-sound-vs-manual-drying/: 34 internal links
+- /speaker-cleaning-after-pool-water/: 20 internal links
+- /speaker-cleaning-after-salt-water/: 20 internal links
+- /speaker-cleaning-safety-guide/: 20 internal links
+- /speaker-cleaning-tone-frequency-guide/: 20 internal links
+- /speaker-grill-cleaning-guide/: 20 internal links
+- /speaker-water-damage-guide/: 20 internal links
+- /speaker-water-eject-sound-for-phones/: 33 internal links
+- /tablet-speaker-water-eject-guide/: 20 internal links
+- /terms-and-conditions/: 27 internal links
+- /water-in-phone-speaker-symptoms/: 20 internal links
+- /waterproof-phone-speaker-guide/: 20 internal links
+- /what-to-do-if-phone-speaker-is-still-distorted/: 34 internal links
+- /when-to-repair-instead-of-using-a-speaker-tool/: 34 internal links
+- /why-phone-speakers-sound-muffled-after-water/: 34 internal links
